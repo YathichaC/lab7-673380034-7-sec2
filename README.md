@@ -1,4 +1,4 @@
-# Lab 7 - Spring Database
+# Lab 7: Database Connectivity — Game Catalog CRUD
 
 ## 📌 Project Description
 
